@@ -1,0 +1,96 @@
+/* mobile first */
+/* sm */
+@media (min-width: 576px) {
+  .sm-100 {
+    width: 100%;
+  }
+  .sm-50 {
+    width: 50%;
+  }
+  .sm-33 {
+    width: 33.333%;
+  }
+  .sm-25 {
+    width: 25%;
+  }
+  .sm-20 {
+    width: 20%;
+  }
+}
+/* md */
+@media (min-width: 768px) {
+  .md-100 {
+    width: 100%;
+  }
+  .md-50 {
+    width: 50%;
+  }
+  .md-33 {
+    width: 33.333%;
+  }
+  .md-25 {
+    width: 25%;
+  }
+  .md-20 {
+    width: 20%;
+  }
+   
+}
+/* lg */
+@media (min-width: 992px) {
+  .lg-100 {
+    width: 100%;
+  }
+  .lg-50 {
+    width: 50%;
+  }
+  .lg-33 {
+    width: 33.333%;
+  }
+  .lg-25 {
+    width: 25%;
+  }
+  .lg-20 {
+    width: 20%;
+  }
+
+}
+/* xl */
+@media (min-width: 1200px) {
+  .xl-100 {
+    width: 100%;
+  }
+  .xl-75 {
+    width: 75%;
+  }
+  .xl-50 {
+    width: 50%;
+  }
+  .xl-33 {
+    width: 33.333%;
+  }
+  .xl-25 {
+    width: 25%;
+  }
+  .xl-20 {
+    width: 20%;
+  }
+}
+/* xxl */
+@media (min-width: 1400px) {
+  .xxl-100 {
+    width: 100%;
+  }
+  .xxl-50 {
+    width: 50%;
+  }
+  .xxl-33 {
+    width: 33.333%;
+  }
+  .xxl-25 {
+    width: 25%;
+  }
+  .xxl-20 {
+    width: 20%;
+  }
+}
